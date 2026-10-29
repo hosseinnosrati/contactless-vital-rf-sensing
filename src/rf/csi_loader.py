@@ -93,3 +93,4 @@ def generate_rf_vital_signal(
     }
 
     return t, wrapped_phase, ground_truth
+

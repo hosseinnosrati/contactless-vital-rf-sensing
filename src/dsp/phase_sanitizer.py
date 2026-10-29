@@ -39,3 +39,4 @@ def sanitize_rf_phase(wrapped_phase: np.ndarray, fs: float = 100.0) -> np.ndarra
     cleaned = signal.medfilt(detrended, kernel_size=kernel_size)
 
     return cleaned
+

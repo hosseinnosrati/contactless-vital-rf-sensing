@@ -41,3 +41,4 @@ def extract_vital_waveforms(
     cardiac_waveform = signal.filtfilt(b_cardiac, a_cardiac, residual_phase)
 
     return resp_waveform, cardiac_waveform
+

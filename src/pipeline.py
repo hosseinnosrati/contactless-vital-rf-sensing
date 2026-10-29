@@ -24,3 +24,4 @@ class RFVitalSensingPipeline:
         metrics = estimate_vital_rates(resp_wave, cardiac_wave, fs=self.fs)
 
         return sanitized_phase, resp_wave, cardiac_wave, metrics
+

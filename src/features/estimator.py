@@ -49,3 +49,4 @@ def estimate_vital_rates(
         "resp_peak_freq_hz": float(f_resp_peak),
         "cardiac_peak_freq_hz": float(f_cardiac_peak)
     }
+

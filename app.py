@@ -71,3 +71,4 @@ ax3.set_ylabel("Amp (rad)")
 ax3.grid(True, linestyle="--", alpha=0.5)
 
 st.pyplot(fig)
+

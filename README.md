@@ -93,15 +93,6 @@ streamlit run app.py
 
 ---
 
-## 📜 How to Reference in Academic Applications / CV
-
-> **Contactless RF Vital Signs Sensing Pipeline | Python, SciPy, Signal Processing**
-> * Developed a non-contact vital signs telemetry pipeline extracting respiration (RR) and heart rate (HR) from 5.8 GHz RF phase shifts and Wi-Fi CSI fluctuations.
-> * Formulated phase unwrapping, polynomial CFO regression, and dual-band IIR filtering to isolate sub-millimeter cardiac apex displacement (0.3 mm) from respiratory motion (6 mm).
-> * Benchmarked real-time throughput on a dual-core microprocessor, achieving 0.002 ms/packet latency (>4,000× real-time speedup) with <1.5 bpm estimation error.
-> * Repository: `https://github.com/hnosrati0-source/contactless-vital-rf-sensing`
-
----
-
 ## ⚖️ License
 Licensed under the **MIT License**. Intended for civilian, clinical, and academic research purposes.
+
