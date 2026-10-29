@@ -16,7 +16,7 @@ st.set_page_config(page_title="Contactless RF Vital Signs", page_icon="📡", la
 st.title("📡 Contactless Vital Signs Sensing via RF & Wi-Fi CSI")
 st.markdown(
     "**Non-Invasive Respiration & Heartbeat Telemetry** | "
-    "*[GitHub Repository](https://github.com/hnosrati0-source/contactless-vital-rf-sensing)*"
+    "*[GitHub Repository](https://github.com/hosseinnosrati/contactless-vital-rf-sensing)*"
 )
 st.caption("Extracts micro-Doppler chest displacements from wireless channel fluctuations without body contact.")
 

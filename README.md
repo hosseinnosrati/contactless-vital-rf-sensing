@@ -80,7 +80,7 @@ Benchmarked on an **Intel Pentium Dual-Core T2330 @ 1.60 GHz**:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/hnosrati0-source/contactless-vital-rf-sensing.git
+git clone https://github.com/hosseinnosrati/contactless-vital-rf-sensing.git
 cd contactless-vital-rf-sensing
 ```
 
